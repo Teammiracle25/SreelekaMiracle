@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>FEATURES 2</title></head>
+<body> 
+ we provide comfort to the book readers
+ Acts as a social medis to intract with people
+</body>
+</html>
